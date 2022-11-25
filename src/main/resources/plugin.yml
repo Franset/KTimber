@@ -1,0 +1,5 @@
+name: KTimber
+version: '${project.version}'
+main: me.kelsi.ktimber
+api-version: 1.16
+authors: [ Kelsi ]
